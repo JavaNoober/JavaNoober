@@ -14,7 +14,7 @@
   <a href="https://qm.qq.com/cgi-bin/qm/qr?k=jtCa-JO1R_quVwRjPWvJjAKDiTLP4zlg&jump_from=webapi">
     <img src="https://img.shields.io/badge/🐧%20加入Q群-brightness.svg?color=9c508a" />
   </a>
-  <a href="https://github.com/getActivity">
-    <img src="https://komarev.com/ghpvc/?username=getActivity&color=914d93&label=👁%20Views" />
+  <a href="https://github.com/JavaNoober">
+    <img src="https://komarev.com/ghpvc/?username=JavaNoober&color=914d93&label=👁%20Views" />
   </a>  
 </p>
